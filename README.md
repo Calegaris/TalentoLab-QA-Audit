@@ -17,15 +17,15 @@ El objetivo fue validar los flujos críticos de **Registro, Búsqueda de Empleos
 
 ### 1. Fallo Crítico: Error 500 en Login
 *El servidor devuelve un error interno al intentar ingresar con credenciales válidas.*
-![Error 500 Login](Desktop_Error_500.gif)
+![Error 500 Login](evidencias/Desktop_Error_500.gif)
 
 ### 2. Defecto de Usabilidad: Botón 'Ver Contraseña'
 *El botón del ojo no revela el texto enmascarado, impidiendo validar la contraseña.*
-![Bug Ojo](Desktop_Bug_BotonOjo.gif)
+![Bug Ojo](evidencias/Desktop_Bug_BotonOjo.gif)
 
 ### 3. Validación de Archivos
 *Prueba de carga de CV con formato inválido.*
-![Carga CV Inválido](Desktop_CargaCV_Invalid.gif)
+![Carga CV Inválido](evidencias/Desktop_CargaCV_Invalid.gif)
 
 ---
 
