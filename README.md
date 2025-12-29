@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Proyecto QA: Auditoría de Calidad - Talento Lab
+# Proyecto QA: Auditoría de Calidad - Talento Lab
 
 ![Estado](https://img.shields.io/badge/Estado-Finalizado-success)
 ![Rol](https://img.shields.io/badge/Rol-QA%20Tester%20Manual-blue)
@@ -50,8 +50,8 @@ El objetivo fue validar los flujos críticos de **Registro, Búsqueda de Empleos
 ## 📂 Documentación Completa
 Para ver el detalle técnico, métricas y el plan de pruebas completo:
 
-- 📄 **[Leer Informe Final (PDF)](Informe%20Final%20de%20Testing%20-%20Talento%20Lab.pdf)**
-- 📊 **[Ver Matriz de Prueba y Bugs (Excel)](Entrega_Final_Testing_Luis_Calegari.xlsx)**
+- 📄 **[Leer Informe Final (PDF)](docs/Informe%20Final%20de%20Testing%20-%20Talento%20Lab.pdf)**
+- 📊 **[Ver Matriz de Prueba y Bugs (Excel)](docs/Entrega_Final_Testing_Luis_Calegari.xlsx)**
 
 ---
 
